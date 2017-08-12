@@ -1,4 +1,4 @@
-# Catmull_Rom_Curve
+# Catmull-Rom Curve
 Some notes on Catmull-Rom Curve
 * We only consider centripetal Catmull-Rom cubic curve
 * The curve is first-order differentiable and has **no** self-intersection
